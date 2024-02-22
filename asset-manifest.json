@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-reduxe-curse/static/css/main.54d9aad6.css",
+    "main.js": "/react-reduxe-curse/static/js/main.c115f49b.js",
+    "index.html": "/react-reduxe-curse/index.html",
+    "main.54d9aad6.css.map": "/react-reduxe-curse/static/css/main.54d9aad6.css.map",
+    "main.c115f49b.js.map": "/react-reduxe-curse/static/js/main.c115f49b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54d9aad6.css",
+    "static/js/main.c115f49b.js"
+  ]
+}
